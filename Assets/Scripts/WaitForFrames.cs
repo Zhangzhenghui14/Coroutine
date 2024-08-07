@@ -1,5 +1,5 @@
 ﻿/// <summary>
-/// 按帧等待
+/// 按帧等待，传入的参数为帧数
 /// </summary>
 public class WaitForFrames : IWait
 {
