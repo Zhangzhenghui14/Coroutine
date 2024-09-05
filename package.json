@@ -1,0 +1,16 @@
+{
+  "name": "com.ZFramework.Coroutine",
+  "displayName": "ZFramework.Coroutine",
+  "author": {
+    "name": "ZZH",
+    "url": "https://github.com/Zhangzhenghui14/Coroutine/"
+  },
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "",
+  "keywords": [
+    "coroutine"
+  ],
+  "license": "",
+  "category": "",
+}
