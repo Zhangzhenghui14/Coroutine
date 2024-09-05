@@ -13,4 +13,8 @@
   ],
   "license": "",
   "category": "",
+  "customDependencies": {
+    "com.i89.login.sdk": "git@git.89trillion.com:89t/client/third-party.git?path=LoginSDK"
+  }
+
 }
